@@ -25,7 +25,7 @@ I think that some limitations of the analysis of these data are that they have d
 We can also analyze the relationship between the number of supporters and the results (success, failure, cancellation). Or we can get outcomes based on countries, then Louise could focus on high responds area. 
 ![Outcomes vs countries](https://user-images.githubusercontent.com/95401877/147192457-c6bf6250-f8a4-4e9f-b472-3994f8b34849.png)
 
-## Recommondations
+## Recommendations
 1. Louise starts her fundraising on May.
 2. Louise sets up her fundraising amount as 10,000 to 14,999.
 3. Louise found out the U.S an G.B
